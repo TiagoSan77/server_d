@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { DATABASE_URI } from "../../config";
+import { DATABASE_URI } from "../config";
 
 export const connect = async () => {
     try {

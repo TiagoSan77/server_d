@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 import path from 'path';
 
 // Carrega o .env da raiz do projeto
-const envPath = path.resolve(__dirname, './.env');
+const envPath = path.resolve(__dirname, '../.env');
 dotenv.config({ path: envPath });
 
 export const DATABASE_URI = process.env.DATABASE_URI || '';

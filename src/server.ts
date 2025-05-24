@@ -1,7 +1,7 @@
 // servidor.ts (Node.js com Express e MongoDB)
 import express from 'express';
 import cors from 'cors';
-import { PORT } from '../config';
+import { PORT } from './config';
 import { connect } from './database/mongoose';
 import router from './routes';
 

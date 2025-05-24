@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
-    "outDir": "./dist",
-    "rootDir": "./src",
+    "outDir": "./dist",    // Pasta de saída do JavaScript
+    "rootDir": "./src",    // Pasta de origem do TypeScript
     "module": "CommonJS",
     "target": "ES2020",
     "esModuleInterop": true,
     "strict": true
   },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "**/*.spec.ts"]
+  "include": ["src/**/*"], // Compila tudo dentro de /src
+  "exclude": ["node_modules"]
 }

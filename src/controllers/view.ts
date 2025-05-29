@@ -32,6 +32,15 @@ class View {
       res.status(500).json({ error: "Internal Server Error" });
     }
   }
+  async mostrarViews(req: Request, res: Response) {
+    try {
+      const view = await ViewModel.findOne();
+      res.json(view);
+    }
+    catch (error) {
+      res.status(500).json({ error: "Internal Server Error" });
+    }
+  }
 }
 
 const viewController = new View();

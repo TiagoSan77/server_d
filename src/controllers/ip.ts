@@ -14,4 +14,9 @@ ipRouter.get('/', (req: Request, res: Response) => {
     res.send(`Seu IP é: ${ip}`);
 });
 
+
+async function getIP(req:Request, res:Response) {
+
+}
+
 export default ipRouter;

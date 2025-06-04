@@ -1,0 +1,48 @@
+2025/06/04-10:08:35.425 216c Reusing MANIFEST C:\Users\tiago e grazy\Desktop\repositorios\server_deploy\server_d\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/04-10:08:35.426 216c Recovering log #273
+2025/06/04-10:08:35.699 216c Reusing old log C:\Users\tiago e grazy\Desktop\repositorios\server_deploy\server_d\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000273.log 
+2025/06/04-10:08:35.699 216c Delete type=2 #263
+2025/06/04-10:08:35.699 216c Delete type=2 #264
+2025/06/04-10:08:35.699 216c Delete type=2 #265
+2025/06/04-10:08:35.699 216c Delete type=2 #266
+2025/06/04-10:08:35.699 216c Delete type=2 #267
+2025/06/04-10:08:35.699 216c Delete type=2 #268
+2025/06/04-10:08:35.700 216c Delete type=2 #269
+2025/06/04-10:08:35.700 216c Delete type=2 #270
+2025/06/04-10:08:35.700 216c Delete type=2 #271
+2025/06/04-10:08:35.700 216c Delete type=2 #272
+2025/06/04-10:08:35.700 216c Delete type=2 #274
+2025/06/04-10:08:37.613 386c Level-0 table #287: started
+2025/06/04-10:08:37.647 386c Level-0 table #287: 610368 bytes OK
+2025/06/04-10:08:37.654 386c Delete type=0 #273
+2025/06/04-10:08:37.655 386c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 1248932 : 1
+2025/06/04-10:08:37.655 386c Compacting 1@0 + 0@1 files
+2025/06/04-10:08:37.714 386c Generated table #288@0: 23074 keys, 355941 bytes
+2025/06/04-10:08:37.714 386c Compacted 1@0 + 0@1 files => 355941 bytes
+2025/06/04-10:08:37.719 386c compacted to: files[ 0 1 10 0 0 0 0 ]
+2025/06/04-10:08:37.719 386c Delete type=2 #287
+2025/06/04-10:08:37.720 386c Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 1248932 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/04-10:08:40.611 386c Compacting 1@1 + 10@2 files
+2025/06/04-10:08:40.750 386c Generated table #289@1: 29589 keys, 2189191 bytes
+2025/06/04-10:08:40.819 386c Generated table #290@1: 3628 keys, 2157720 bytes
+2025/06/04-10:08:40.889 386c Generated table #291@1: 3332 keys, 2154900 bytes
+2025/06/04-10:08:40.959 386c Generated table #292@1: 3334 keys, 2155200 bytes
+2025/06/04-10:08:41.032 386c Generated table #293@1: 3543 keys, 2155863 bytes
+2025/06/04-10:08:41.153 386c Generated table #294@1: 26373 keys, 2210891 bytes
+2025/06/04-10:08:41.298 386c Generated table #295@1: 28074 keys, 2256333 bytes
+2025/06/04-10:08:41.435 386c Generated table #296@1: 42941 keys, 2232324 bytes
+2025/06/04-10:08:41.584 386c Generated table #297@1: 72866 keys, 2214331 bytes
+2025/06/04-10:08:41.735 386c Generated table #298@1: 85121 keys, 1862521 bytes
+2025/06/04-10:08:41.735 386c Compacted 1@1 + 10@2 files => 21589274 bytes
+2025/06/04-10:08:41.736 386c compacted to: files[ 0 0 10 0 0 0 0 ]
+2025/06/04-10:08:41.737 386c Delete type=2 #275
+2025/06/04-10:08:41.737 386c Delete type=2 #276
+2025/06/04-10:08:41.737 386c Delete type=2 #277
+2025/06/04-10:08:41.737 386c Delete type=2 #278
+2025/06/04-10:08:41.737 386c Delete type=2 #279
+2025/06/04-10:08:41.737 386c Delete type=2 #280
+2025/06/04-10:08:41.737 386c Delete type=2 #281
+2025/06/04-10:08:41.737 386c Delete type=2 #282
+2025/06/04-10:08:41.737 386c Delete type=2 #283
+2025/06/04-10:08:41.737 386c Delete type=2 #284
+2025/06/04-10:08:41.737 386c Delete type=2 #288

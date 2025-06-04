@@ -5,8 +5,10 @@
     "module": "CommonJS",
     "target": "ES2020",
     "esModuleInterop": true,
-    "strict": true
+    "strict": true,
+    "skipLibCheck": true,
   },
   "include": ["src/**/*"], // Compila tudo dentro de /src
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
+  
 }

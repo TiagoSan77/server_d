@@ -3,8 +3,7 @@ import mens from "../controllers/MensagemController";
 
 const router = Router();
 
-// router.post('/enviar',mens.enviarMensagem);
-router.post('/send-message', mens.enviarMensagem.bind(mens));
-router.get('/qrcode', mens.getQRCode);
+router.post('/send-message', (req, res) => mens.enviarMensagem(req, res));
+router.get('/qrcode', (req, res) => mens.getQRCode(req, res));
 
 export default router;

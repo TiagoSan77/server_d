@@ -1,9 +1,10 @@
 import { Router } from "express";
-import mens from "../controllers/MensagemController";
+import {  sendMyMessage } from "../controllers/MensagemController";
 
 const router = Router();
 
-router.post('/send-message', (req, res) => mens.enviarMensagem(req, res));
-router.get('/qrcode', (req, res) => mens.getQRCode(req, res));
+// router.use('/criar',createClient)
+router.post('/enviar',sendMyMessage)
+// router.post('/multipla',addNewSession) nao funcional ainda
 
 export default router;

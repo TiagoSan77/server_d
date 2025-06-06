@@ -1,0 +1,28 @@
+2025/06/06-09:59:59.873 d68 Reusing MANIFEST C:\Users\tiago e grazy\Desktop\repositorios\server_deploy\server_d\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-09:59:59.884 d68 Recovering log #456
+2025/06/06-10:00:00.035 d68 Reusing old log C:\Users\tiago e grazy\Desktop\repositorios\server_deploy\server_d\.wwebjs_auth\RemoteAuth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000456.log 
+2025/06/06-10:00:00.924 3728 Level-0 table #472: started
+2025/06/06-10:00:00.951 3728 Level-0 table #472: 625053 bytes OK
+2025/06/06-10:00:00.956 3728 Delete type=0 #456
+2025/06/06-10:00:00.957 3728 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1905225 : 1
+2025/06/06-10:00:00.957 3728 Compacting 1@0 + 1@1 files
+2025/06/06-10:00:00.999 3728 Generated table #473@0: 10476 keys, 174734 bytes
+2025/06/06-10:00:01.019 3728 Generated table #474@0: 6947 keys, 142301 bytes
+2025/06/06-10:00:01.019 3728 Compacted 1@0 + 1@1 files => 317035 bytes
+2025/06/06-10:00:01.024 3728 compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/06/06-10:00:01.025 3728 Delete type=2 #472
+2025/06/06-10:00:01.026 3728 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1905225 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-10:00:04.193 3a3c Compacting 1@1 + 9@2 files
+2025/06/06-10:00:04.325 3a3c Generated table #475@1: 31333 keys, 2193230 bytes
+2025/06/06-10:00:04.392 3a3c Generated table #476@1: 3643 keys, 2158365 bytes
+2025/06/06-10:00:04.447 3a3c Generated table #477@1: 3310 keys, 2156446 bytes
+2025/06/06-10:00:04.506 3a3c Generated table #478@1: 3348 keys, 2156238 bytes
+2025/06/06-10:00:04.582 3a3c Generated table #479@1: 3534 keys, 2157641 bytes
+2025/06/06-10:00:04.687 3a3c Generated table #480@1: 27373 keys, 2215402 bytes
+2025/06/06-10:00:04.822 3a3c Generated table #481@1: 28139 keys, 2254982 bytes
+2025/06/06-10:00:04.929 3a3c Generated table #482@1: 23296 keys, 2197824 bytes
+2025/06/06-10:00:05.017 3a3c Generated table #483@1: 35609 keys, 2165314 bytes
+2025/06/06-10:00:05.031 3a3c Generated table #484@1: 3493 keys, 67981 bytes
+2025/06/06-10:00:05.031 3a3c Compacted 1@1 + 9@2 files => 19723423 bytes
+2025/06/06-10:00:05.032 3a3c compacted to: files[ 0 1 15 0 0 0 0 ]
+2025/06/06-10:00:05.033 3a3c Delete type=2 #459
